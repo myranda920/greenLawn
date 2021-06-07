@@ -21,7 +21,7 @@ a.btn-slider.solid,
 #mainmenu a:hover,
 #mainmenu a.active
  {
-	background:#39e639;
+	background:#4cdef5;
 }
 
 .feature-box i,
@@ -38,7 +38,7 @@ i.large:hover,
 address span i,
 .pricing-dark .pricing-box li.price-row
 {
-	color:#39e639;
+	color:#a4d555;
 }
 
 .feature-box i,
@@ -53,9 +53,9 @@ address span i,
 .pagination > .active > a:focus,
 .pagination > .active > span:focus {
 
-	border-color:#39e639;
+	border-color:#a4d555;
 }
 
 .callbacks_nav {
-	background-color:#39e639;
+	background-color:#a4d555;
 }

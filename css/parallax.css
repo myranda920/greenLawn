@@ -8,7 +8,7 @@ padding:90px 0 90px 0;
 background:#116493;
 }
 #subheader{
-background:url(../images/bg-subheader-1.jpg) top fixed;
+background:url(../images-slider/BackgroundImage.jpg) top fixed;
 }
 
 
@@ -35,17 +35,17 @@ background:#bbb;
 /* -------------------------------------------------- */
 /* dark template */
 .dark section{
-background:#1A1A1A;
-color:#ccc;
+background:#fff;
+color:rgb(158, 156, 156);
 }
 .dark #page-pricing{
 background:url(../images/bg-blur-1.jpg) top fixed;
 }
 .dark  #page-contact{
-background:url(../images/bg-blur-2.jpg) top fixed;
+background:url(../images-slider/BackgroundImage.jpg) top fixed;
 }
 .dark  #page-why-choose-us{
-background:url(../images/bg-blur-3.jpg) top fixed;
+background:url(../images-slider/Backgroundimage.jpg) top fixed;
 }
 .dark  #logo-full{
 background:#111;
