@@ -8,7 +8,7 @@ padding:90px 0 90px 0;
 background:#116493;
 }
 #subheader{
-background:url(../images-slider/BackgroundImage.jpg) top fixed;
+background:url(../images/headerimage.jpg) top fixed;
 }
 
 
@@ -42,10 +42,10 @@ color:rgb(158, 156, 156);
 background:url(../images/bg-blur-1.jpg) top fixed;
 }
 .dark  #page-contact{
-background:url(../images-slider/BackgroundImage.jpg) top fixed;
+background:
 }
 .dark  #page-why-choose-us{
-background:url(../images-slider/Backgroundimage.jpg) top fixed;
+background:
 }
 .dark  #logo-full{
 background:#111;
